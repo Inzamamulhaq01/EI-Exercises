@@ -1,4 +1,4 @@
-package Exercise_1.Structural;
+package exercise_1.Structural;
 
 // Decorator Pattern: Coffee Maker
 

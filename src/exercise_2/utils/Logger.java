@@ -1,7 +1,7 @@
 //src/utils/Logger.java
 
 
-package Exercise_2.utils;
+package exercise_2.utils;
 
 import java.io.File;
 import java.io.FileWriter;

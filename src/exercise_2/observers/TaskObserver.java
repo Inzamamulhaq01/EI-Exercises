@@ -4,9 +4,9 @@
 //  a list of observers and notifies them when relevant events occur.
 
 
-package Exercise_2.observers;
+package exercise_2.observers;
 
-import Exercise_2.models.Task;
+import exercise_2.models.Task;
 
 
 public interface TaskObserver {

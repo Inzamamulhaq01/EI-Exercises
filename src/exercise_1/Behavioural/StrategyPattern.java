@@ -1,4 +1,4 @@
-package Exercise_1.Behavioural;
+package exercise_1.Behavioural;
 
 // Strategy Pattern: Payment System
 interface PaymentStrategy

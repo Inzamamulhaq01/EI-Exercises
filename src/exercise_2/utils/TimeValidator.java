@@ -1,6 +1,6 @@
 //src/utils/TimeValidator.java
 
-package Exercise_2.utils;
+package exercise_2.utils;
 
 public class TimeValidator
 {

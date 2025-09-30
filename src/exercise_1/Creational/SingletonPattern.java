@@ -1,4 +1,4 @@
-package Exercise_1.Creational;
+package exercise_1.Creational;
 
 // Singleton Pattern: Mac Resolver
 

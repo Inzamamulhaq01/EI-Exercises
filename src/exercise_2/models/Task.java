@@ -1,7 +1,7 @@
 // src/models/Task.java
 
 
-package Exercise_2.models;
+package exercise_2.models;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

@@ -2,13 +2,13 @@
 
 // src/App.java
 
-package Exercise_2;
+package exercise_2;
 
-import Exercise_2.managers.ScheduleManager;
-import Exercise_2.observers.TaskAddedObserver;
-import Exercise_2.observers.TaskCompletionObserver;
-import Exercise_2.observers.TaskConflictObserver;
-import Exercise_2.utils.TimeValidator;
+import exercise_2.managers.ScheduleManager;
+import exercise_2.observers.TaskAddedObserver;
+import exercise_2.observers.TaskCompletionObserver;
+import exercise_2.observers.TaskConflictObserver;
+import exercise_2.utils.TimeValidator;
 
 import java.util.Scanner;
 

@@ -1,10 +1,10 @@
 // src/managers/TaskFactory.ts
 
 
-package Exercise_2.factories;
+package exercise_2.factories;
 
-import Exercise_2.models.Task;
-import Exercise_2.utils.TimeValidator;
+import exercise_2.models.Task;
+import exercise_2.utils.TimeValidator;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

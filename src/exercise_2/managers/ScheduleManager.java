@@ -4,20 +4,19 @@
 // instance of the schedule manager handling all tasks throughout the application.
 
 
-package Exercise_2.managers;
+package exercise_2.managers;
 
-import Exercise_2.factories.TaskFactory;
-import Exercise_2.models.Task;
-import Exercise_2.observers.EventType;
-import Exercise_2.observers.TaskObserver;
-import Exercise_2.utils.Logger;
+import exercise_2.factories.TaskFactory;
+import exercise_2.models.Task;
+import exercise_2.observers.EventType;
+import exercise_2.observers.TaskObserver;
+import exercise_2.utils.Logger;
 
 import java.time.Duration;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.Date;
 import java.util.List;
 
 public class ScheduleManager

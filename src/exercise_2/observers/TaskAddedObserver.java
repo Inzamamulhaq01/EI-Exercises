@@ -1,8 +1,8 @@
 // src/observers/TaskAddedObserver.java
 
-package Exercise_2.observers;
+package exercise_2.observers;
 
-import Exercise_2.models.Task;
+import exercise_2.models.Task;
 
 public class TaskAddedObserver implements TaskObserver{
     @Override
